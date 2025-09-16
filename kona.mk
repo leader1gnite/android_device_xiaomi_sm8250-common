@@ -102,12 +102,10 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     audio.bluetooth.default \
-    audio.primary.kona \
     audio.r_submix.default \
     audio.usbv2.default \
 
 PRODUCT_PACKAGES += \
-    liba2dpoffload \
     libaudiopreprocessing \
     libbatterylistener \
     libbundlewrapper \
